@@ -1,0 +1,14 @@
+/** @format */
+
+.grid {
+  margin: auto;
+  align-items: center;
+}
+.grid-item {
+  max-width: 300px;
+  margin-bottom: 10px !important;
+}
+
+.grid-item img {
+  width: 100%;
+}
